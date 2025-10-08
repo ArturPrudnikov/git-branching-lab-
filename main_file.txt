@@ -1,1 +1,2 @@
  Це основний файл 
+Змiна в conflict-branch
