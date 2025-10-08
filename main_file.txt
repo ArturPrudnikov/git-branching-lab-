@@ -1,2 +1,6 @@
  Це основний файл 
+
 Змына в main
+
+Змiна в conflict-branch
+
